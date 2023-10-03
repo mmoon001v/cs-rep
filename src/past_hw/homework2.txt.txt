@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Homework 2</title>
+	<title> HTML </title>
+    </head>
+    <body>
+        <p>
+            Lab 2: Plain Ol' HTML
+
+        </p>
+	
+<h1> Live Grasses Negatively Affect 
+Root Associated Fungi in Culture
+</h1>
+<h2> By: Myleen Maldonado1,2, Catherine A. Gehring2, Gillian Trimber2
+</h2>
+
+<p title="I'm a tooltip">This is a paragraph.</p>
+
+<!-- this is a comment
+--> 
+
+    </body>
+</html>
